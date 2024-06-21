@@ -5,7 +5,7 @@ Here you'll find descriptions and time complexities of various sorting algorithm
 ### 1. Bubble Sort
 
 **Description:** Repeatedly compares adjacent elements and swaps them if they are in the wrong order.  
-**Time Complexity:** O(n²)
+**Time Complexity:** O(n)
 
 [Learn more](https://en.wikipedia.org/wiki/Bubble_sort)
 
